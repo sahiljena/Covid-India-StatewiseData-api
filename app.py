@@ -23,4 +23,7 @@ def get_statewise_data():
                     "DEATH":div[j+3].text
                     }
                 dataset[div[j].text] = temp
-    return jsonify(dataset)
+    if dataset:
+        return jsonify(dataset)
+    else:
+        return "Unable to proccess data please contact Develope wwww.github.com/sahiljena"
