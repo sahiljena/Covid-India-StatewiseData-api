@@ -26,4 +26,4 @@ def get_statewise_data():
     if dataset:
         return jsonify(dataset)
     else:
-        return "Unable to proccess data please contact Develope wwww.github.com/sahiljena"
+        return "Unable to proccess data please contact Developer https://github.com/sahiljena"
