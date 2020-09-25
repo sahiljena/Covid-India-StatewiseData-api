@@ -1,4 +1,4 @@
- from flask import Flask, flash, request, redirect, url_for ,render_template, jsonify
+from flask import Flask, flash, request, redirect, url_for ,render_template, jsonify
 import json
 import requests
 from bs4 import BeautifulSoup
