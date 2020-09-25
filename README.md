@@ -1,4 +1,13 @@
 # Covid-India-StatewiseData-api
-This is a  <b> Flask API</b> that scraps <b>statewise</b> data from <a href="https://www.mygov.in/corona-data/covid19-statewise-status/">https://www.mygov.in/corona-data/covid19-statewise-status/</a> using <b>bs4</b> 
+This is a  <b> Flask API</b> that scraps <b>statewise</b> data from <a href="https://www.mygov.in/corona-data/covid19-statewise-status/">The Ministry of Human Welfare and Resource</a> using <b>bs4</b> 
 
-<br>This API is availible at <a href="https://covid-india-statewise-api.herokuapp.com/api/statewise">https://covid-india-statewise-api.herokuapp.com/</a>
+<br>:large_blue_circle:<b>This API is availible <a href="https://covid-india-statewise-api.herokuapp.com/api/statewise">here</a></b>
+# Sources
+<li>https://www.mygov.in/corona-data/covid19-statewise-status/</li>
+
+# Installation 
+git clone https://github.com/sahiljena/Covid-India-StatewiseData-api.git
+
+# Contact
+* <a href="https://www.instagram.com/sahiljena_/">Intsagram</a></li>
+* <a href="https://twitter.com/Sahiljena7">Twitter</a></li>
